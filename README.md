@@ -1,6 +1,7 @@
 # About
 
 This is a simple Maze Solver in python. It creates a grid, makes oppennings so it becomes a maze. Than a line is drawn as a path through the Maze. The red line indicates the right path and the gray line dead end.
+![maze_solver](https://github.com/marinpesa15/Maze-Solver/assets/61017410/ffa2be8c-1fba-4958-80fd-4c2b12d2cf20)
 
 # Tkinter
 
